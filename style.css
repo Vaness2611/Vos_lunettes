@@ -1,0 +1,18 @@
+form {
+	width: 500px;
+	background-color:#32E3884A;
+	padding: 60px;
+	box-sizing:border-box;
+}
+
+body{
+	margin: 0;
+	height: 100vh;
+	background-size:cover;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+main{
+	margin-top:50px;
+}
